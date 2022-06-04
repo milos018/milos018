@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Milos</h1>
-<h3 align="center">Senior Full-Stack Software Developer, with main focus on JavaScript/TypeScript | learning GoLang</h3>
+<h1 align="left">Hi 👋, I'm Milos</h1>
+<h3 align="left">Senior Full-Stack Software Developer, with main focus on JavaScript/TypeScript | learning GoLang</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
